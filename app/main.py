@@ -25,3 +25,7 @@ def home():
 @app.route('/update')
 def update():
     return 'update'
+
+
+if __name__ == "__main__":
+    app.run()
