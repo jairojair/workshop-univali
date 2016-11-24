@@ -3,6 +3,8 @@ Workshop UNIVALI
 
 O workshop teve como objetivo apresentar uma visão inicial para quem entra no mundo Python, conceito de comunidade, primeiros passos e como utilizar em problemas reais. 
 
+Slides: https://speakerdeck.com/jairojair/workshop-univali
+
 **basico**
 
 Introdução a linguagem, sintaxe, e primeiros exemplos.
