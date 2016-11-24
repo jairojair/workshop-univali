@@ -9,7 +9,7 @@ Introdução a linguagem, sintaxe, e primeiros exemplos.
 
 **exemplos**
 
-Na pasta exemplos você irá exemplos de utilização de Python em problemas reais do seu dia a dia.
+Na pasta exemplos você irá encontrar como pode utilizar Python em problemas reais.
 
 **app**
 
